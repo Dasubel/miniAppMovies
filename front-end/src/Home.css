@@ -1,0 +1,26 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+  }
+
+.theButton{
+    border:solid 1px rgb(5, 0, 0);
+    height: 25px;
+    gap: 5px;
+    width: 350px;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+ }
+
+ .theBox {
+    border: solid 1px rgb(5, 0, 0);
+    height: 20px;
+    width: 345px;
+    gap: 4px;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+}
